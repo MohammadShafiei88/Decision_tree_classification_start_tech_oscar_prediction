@@ -1,4 +1,4 @@
-🎬 Start_Tech_Oscar Prediction using Decision Tree Classification¶
+🎬 Start_Tech_Oscar Prediction using Decision Tree Classification
 
 📌 Project Overview
 In this project, a Decision Tree Classification model is developed to predict whether a movie can win the Start_Tech_Oscar award or not. The model uses various movie-related, production, and marketing features to perform binary classification.
